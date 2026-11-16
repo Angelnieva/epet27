@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://angelnieva.github.io/epet27/sitemap.xml
