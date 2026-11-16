@@ -1,0 +1,248 @@
+/* *: selecciona todos los elementos de la página */
+* {
+    box-sizing: border-box;
+}
+
+/* body: configura toda la página */
+body {
+
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+    color: #222;
+}
+
+
+/* MENÚ IZQUIERDO */
+
+/* header: contiene el encabezado y el menú */
+header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 230px;
+    height: 100vh;
+    background: #1d3557;
+    color: rgb(193, 187, 187);
+    padding: 25px 15px;
+    overflow-y: auto;
+}
+
+/* h1: título principal del encabezado */
+header h1 {
+    margin: 0;
+    text-align: center;
+    font-size: 28px;
+}
+
+/* p: texto descriptivo del encabezado */
+header p {
+    text-align: center;
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+
+/* nav: organiza el menú de navegación */
+nav {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* nav button: da estilo a los botones del menú */
+nav button {
+    border: none;
+    background: #457b9d;
+    color: white;
+    padding: 13px;
+    border-radius: 6px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+/* hover: cambia el color cuando pasamos el mouse */
+nav button:hover {
+    background: #2a9d8f;
+}
+
+
+/* CONTENIDO */
+
+/* main: contiene el contenido principal de la página */
+main { 
+    margin-left: 230px;
+    padding: 40px;
+    min-height: 100vh;
+}
+
+
+/* SECCIONES */
+
+/* .seccion: configura las diferentes secciones de la página */
+.seccion {
+    display: none;
+    background: white;
+    padding: 35px;
+    border-radius: 10px;
+    max-width: 1100px;
+    margin: auto;
+}
+
+/* FONDO DE LA SECCIÓN NOVEDADES */
+
+
+#novedades {
+    background-image: url("https://img.magnific.com/vector-gratis/estandarte-blanco-neumorfico-capas-minimas-sombra-suave_1017-53870.jpg?semt=ais_hybrid&w=740&q=80");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:#100303;
+}
+
+
+/* .titulo-principal: modifica el título principal */
+.titulo-principal {
+    font-size: 70px;
+    background-color: #12355b;
+    color: white;
+    padding: 70px;
+    margin: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* h2: configura los títulos secundarios */
+.seccion h2 {
+    font-size: 32px;
+    margin-top: 0;
+    color: #1d3557;
+}
+
+/* h3: configura los subtítulos */
+.seccion h3 {
+    color: #457b9d;
+}
+
+/* p: configura los párrafos de las secciones */
+.seccion p {
+    line-height: 1.7;
+}
+
+
+
+/* IMÁGENES */
+
+/* Centra las imágenes y configura su tamaño */
+.seccion img {
+    display: block;
+    width: 70%;
+    max-width: 700px;
+    height: auto;
+    margin: 25px auto;
+    border-radius: 15px;
+}
+
+
+/* BOTONES DE CURSOS */
+
+/* button: configura los botones que aparecen dentro de las secciones */
+.seccion button {
+    background: #457b9d;
+    color: white;
+    border: none;
+    padding: 12px 18px;
+    margin: 5px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/* hover: cambia el color de los botones al pasar el mouse */
+.seccion button:hover {
+    background: #2a9d8f;
+}
+
+
+/* INFORMACIÓN DE CURSOS */
+
+/* #infoCurso: configura el cuadro donde aparece la información del curso */
+#infoCurso {
+    margin-top: 25px;
+    padding: 20px;
+    background: #eeeeee;
+    border-radius: 8px;
+}
+
+
+/* PIE */
+
+/* footer: configura el pie de página */
+footer {
+    margin-left: 230px;
+    background: #1d3557;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+/* CELULAR */
+
+/* @media: adapta la página para pantallas pequeñas */
+@media (max-width: 700px) {
+
+    /* header: adapta el encabezado al celular */
+    header {
+        position: relative;
+        width: 100%;
+        height: auto;
+    }
+
+    /* nav: cambia la distribución del menú */
+    nav {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    /* button: adapta los botones al tamaño disponible */
+    nav button {
+        width: auto;
+    }
+
+    /* main: elimina el espacio lateral en celulares */
+    main {
+        margin-left: 0;
+        padding: 15px;
+    }
+
+    /* footer: elimina el espacio lateral en celulares */
+    footer {
+        margin-left: 0;
+    }
+
+    /* .seccion: reduce el espacio interno de las secciones */
+    .seccion {
+        padding: 20px;
+    }
+}
+
+.aviso-amarillo {
+    background-color: yellow;
+    color: black;
+    padding: 20px;
+    border: 2px solid #d6b600;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+/* Bienvenida de la página principal */
+.bienvenida {
+    background: linear-gradient(135deg, #154360, #2874a6);
+    color: white;
+    padding: 30px;
+    margin: 20px 0;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
