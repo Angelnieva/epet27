@@ -42,15 +42,15 @@ function curso(numero) {
 
             <p>Formación inicial y conocimientos generales.</p>
 
-            <h3>Planificaciones anuales</h3>
+            <h3>planificaciones anuales</h3>
 
             <div class="documento">
                 <h4>Matemática - 1.º Año</h4>
-                <a href="Planificacion.pdf/MATEMATICA%201%C2%BA%20A%203%C2%BA.pdf"
+                <a href="planificacion.pdf/MATEMATICA%201%C2%BA%20A%203%C2%BA.pdf"
                    target="_blank" rel="noopener">
                     Ver PDF
                 </a>
-                <a href="Planificacion.pdf/MATEMATICA%201%C2%BA%20A%203%C2%BA.pdf"
+                <a href="planificacion.pdf/MATEMATICA%201%C2%BA%20A%203%C2%BA.pdf"
                    download>
                     Descargar PDF
                 </a>
@@ -58,11 +58,11 @@ function curso(numero) {
 
             <div class="documento">
                 <h4>Ciencias Naturales - 1.º Año</h4>
-                <a href="Planificacion.pdf/CS%20NATURALES%201%C2%BA%20A%C3%91O.pdf"
+                <a href="planificacion.pdf/CS%20NATURALES%201%C2%BA%20A%C3%91O.pdf"
                    target="_blank" rel="noopener">
                     Ver PDF
                 </a>
-                <a href="Planificacion.pdf/CS%20NATURALES%201%C2%BA%20A%C3%91O.pdf"
+                <a href="planificacion.pdf/CS%20NATURALES%201%C2%BA%20A%C3%91O.pdf"
                    download>
                     Descargar PDF
                 </a>
@@ -82,15 +82,15 @@ function curso(numero) {
 
             <p>Continuación de la formación general y técnica.</p>
 
-            <h3>Planificaciones anuales</h3>
+            <h3>planificaciones anuales</h3>
 
             <div class="documento">
                 <h4>Matemática e Informática - 2.º Año</h4>
-                <a href="Planificacion.pdf/matematica%20informatica%202026%202%C2%B0%20A%C3%91O.pdf"
+                <a href="planificacion.pdf/matematica%20informatica%202026%202%C2%B0%20A%C3%91O.pdf"
                    target="_blank" rel="noopener">
                     Ver PDF
                 </a>
-                <a href="Planificacion.pdf/matematica%20informatica%202026%202%C2%B0%20A%C3%91O.pdf"
+                <a href="planificacion.pdf/matematica%20informatica%202026%202%C2%B0%20A%C3%91O.pdf"
                    download>
                     Descargar PDF
                 </a>
@@ -98,11 +98,11 @@ function curso(numero) {
 
             <div class="documento">
                 <h4>Ciencias Naturales - 2.º Año</h4>
-                <a href="Planificacion.pdf/Cs.%20Naturales%202%C2%B0A%C3%91O.pdf"
+                <a href="planificacion.pdf/Cs.%20Naturales%202%C2%B0A%C3%91O.pdf"
                    target="_blank" rel="noopener">
                     Ver PDF
                 </a>
-                <a href="Planificacion.pdf/Cs.%20Naturales%202%C2%B0A%C3%91O.pdf"
+                <a href="planificacion.pdf/Cs.%20Naturales%202%C2%B0A%C3%91O.pdf"
                    download>
                     Descargar PDF
                 </a>
@@ -122,15 +122,15 @@ function curso(numero) {
 
             <p>Incorporación de nuevos conocimientos técnicos.</p>
 
-            <h3>Planificaciones anuales</h3>
+            <h3>planificaciones anuales</h3>
 
             <div class="documento">
                 <h4>Matemática e Informática - 3.º Año</h4>
-                <a href="Planificacion.pdf/matematica%20informatica%202026%203%C2%B0%20A%C3%91O.pdf"
+                <a href="planificacion.pdf/matematica%20informatica%202026%203%C2%B0%20A%C3%91O.pdf"
                    target="_blank" rel="noopener">
                     Ver PDF
                 </a>
-                <a href="Planificacion.pdf/matematica%20informatica%202026%203%C2%B0%20A%C3%91O.pdf"
+                <a href="planificacion.pdf/matematica%20informatica%202026%203%C2%B0%20A%C3%91O.pdf"
                    download>
                     Descargar PDF
                 </a>
@@ -138,11 +138,11 @@ function curso(numero) {
 
             <div class="documento">
                 <h4>Ciencias Naturales - 3.º Año</h4>
-                <a href="Planificacion.pdf/Cs.%20Naturales%203%C2%B0%20A%C3%91O.pdf"
+                <a href="planificacion.pdf/Cs.%20Naturales%203%C2%B0%20A%C3%91O.pdf"
                    target="_blank" rel="noopener">
                     Ver PDF
                 </a>
-                <a href="Planificacion.pdf/Cs.%20Naturales%203%C2%B0%20A%C3%91O.pdf"
+                <a href="planificacion.pdf/Cs.%20Naturales%203%C2%B0%20A%C3%91O.pdf"
                    download>
                     Descargar PDF
                 </a>
@@ -162,15 +162,15 @@ function curso(numero) {
 
             <p>Formación relacionada con la especialidad Automotores.</p>
 
-            <h3>Planificaciones anuales</h3>
+            <h3>planificaciones anuales</h3>
 
             <div class="documento">
                 <h4>Análisis Matemático - 4.º Año</h4>
-                <a href="Planificacion.pdf/An%C3%A1lisis%20Matematico%204%C2%B0%20a%C3%B1o.pdf"
+                <a href="planificacion.pdf/An%C3%A1lisis%20Matematico%204%C2%B0%20a%C3%B1o.pdf"
                    target="_blank" rel="noopener">
                     Ver PDF
                 </a>
-                <a href="Planificacion.pdf/An%C3%A1lisis%20Matematico%204%C2%B0%20a%C3%B1o.pdf"
+                <a href="planificacion.pdf/An%C3%A1lisis%20Matematico%204%C2%B0%20a%C3%B1o.pdf"
                    download>
                     Descargar PDF
                 </a>
@@ -178,11 +178,11 @@ function curso(numero) {
 
             <div class="documento">
                 <h4>Informática - 4.º Año</h4>
-                <a href="Planificacion.pdf/Informatica%204%C2%B0%20A%C3%91O.pdf"
+                <a href="planificacion.pdf/Informatica%204%C2%B0%20A%C3%91O.pdf"
                    target="_blank" rel="noopener">
                     Ver PDF
                 </a>
-                <a href="Planificacion.pdf/Informatica%204%C2%B0%20A%C3%91O.pdf"
+                <a href="planificacion.pdf/Informatica%204%C2%B0%20A%C3%91O.pdf"
                    download>
                     Descargar PDF
                 </a>
@@ -190,11 +190,11 @@ function curso(numero) {
 
             <div class="documento">
                 <h4>Lengua y Producción de Conocimientos - 4.º Año</h4>
-                <a href="Planificacion.pdf/Planificacion%20Area%20LyPC%204%C2%B0%20A%C3%91O.pdf"
+                <a href="planificacion.pdf/Planificacion%20Area%20LyPC%204%C2%B0%20A%C3%91O.pdf"
                    target="_blank" rel="noopener">
                     Ver PDF
                 </a>
-                <a href="Planificacion.pdf/Planificacion%20Area%20LyPC%204%C2%B0%20A%C3%91O.pdf"
+                <a href="planificacion.pdf/Planificacion%20Area%20LyPC%204%C2%B0%20A%C3%91O.pdf"
                    download>
                     Descargar PDF
                 </a>
@@ -214,15 +214,15 @@ function curso(numero) {
 
             <p>Profundización de los conocimientos técnicos y prácticos.</p>
 
-            <h3>Planificaciones anuales</h3>
+            <h3>planificaciones anuales</h3>
 
             <div class="documento">
                 <h4>Electricidad del Automotor - 5.º Año</h4>
-                <a href="Planificacion.pdf/Electricidad%20del%20automotor%205%C2%B0%20A%C3%91O.pdf"
+                <a href="planificacion.pdf/Electricidad%20del%20automotor%205%C2%B0%20A%C3%91O.pdf"
                    target="_blank" rel="noopener">
                     Ver PDF
                 </a>
-                <a href="Planificacion.pdf/Electricidad%20del%20automotor%205%C2%B0%20A%C3%91O.pdf"
+                <a href="planificacion.pdf/Electricidad%20del%20automotor%205%C2%B0%20A%C3%91O.pdf"
                    download>
                     Descargar PDF
                 </a>
@@ -230,11 +230,11 @@ function curso(numero) {
 
             <div class="documento">
                 <h4>Elementos de Máquinas - 5.º Año</h4>
-                <a href="Planificacion.pdf/Elementos%20de%20maquinas%205%C2%B0%20A%C3%91O.pdf"
+                <a href="planificacion.pdf/Elementos%20de%20maquinas%205%C2%B0%20A%C3%91O.pdf"
                    target="_blank" rel="noopener">
                     Ver PDF
                 </a>
-                <a href="Planificacion.pdf/Elementos%20de%20maquinas%205%C2%B0%20A%C3%91O.pdf"
+                <a href="planificacion.pdf/Elementos%20de%20maquinas%205%C2%B0%20A%C3%91O.pdf"
                    download>
                     Descargar PDF
                 </a>
